@@ -1,2 +1,2 @@
 # hello-world
-Just simple repository
+This is readme file
